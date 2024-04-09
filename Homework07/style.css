@@ -1,0 +1,14 @@
+td,
+th {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+button {
+  background-color: #64d768;
+  border: 0px solid rgb(255, 255, 255);
+  border-radius: 5px;
+  width: 100px;
+  height: 30px;
+  margin-top: 25px;
+}
